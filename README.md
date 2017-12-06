@@ -13,8 +13,8 @@
  *
  * Copyright 2017 ForgeRock AS.
 -->
-# KBA Authentication Node
-<br/>
+# KBA Authentication Node  
+
 A simple authentication node for ForgeRock's [Identity Platform][forgerock_platform] 5.5 and above. This node prompts with a random question from the user's set of KBAs. 
 
 ## Installation
@@ -41,4 +41,5 @@ ForgeRock does not warrant, guarantee or make any representations regarding the 
 
 ForgeRock shall not be liable for any direct, indirect or consequential damages or costs of any type arising out of any action taken by you or others related to the sample code.
 
-[forgerock_platform]: https://www.forgerock.com/platform/
+[forgerock_platform]: https://www.forgerock.com/platform/  
+
